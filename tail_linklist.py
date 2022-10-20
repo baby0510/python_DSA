@@ -46,6 +46,7 @@ class linklist:
                 temp = temp.next
             else:
                 print("not found")
+# this is remove node function
 
     def remove(self, data):
         print("\n removing..🚮")
