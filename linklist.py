@@ -1,10 +1,12 @@
 
 # this is linklist with head reference prepending node
-
+# node class
 class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
+
+# linklis class
 
 
 class linklist:
